@@ -1,0 +1,20 @@
+{
+  "short_name": "Denise de Moraes Simões - App",
+  "name": "Denise de Moraes Simões - Cartão Digital",
+  "icons": [
+    {
+      "src": "https://dcards.github.io/denise-de-moraes-simoes/favicon-foto/android-icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://dcards.github.io/denise-de-moraes-simoes/favicon-foto/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://dcards.github.io/denise-de-moraes-simoes/?utm_source=pwa",
+  "background_color": "#0dccac",
+  "display": "standalone",
+  "theme_color": "#2c2c2c"
+}
